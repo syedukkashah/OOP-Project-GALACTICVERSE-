@@ -3,7 +3,7 @@
 #### Instructor: Talha Shahid
 #### Section: BAI-2A
 
-###### Prepared by:
+###### Prepared by:-
 
 | Name             | Roll No       |
 | ---------------- | ------------- |
