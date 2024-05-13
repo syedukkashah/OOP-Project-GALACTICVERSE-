@@ -13,7 +13,7 @@
 
 # ABSTRACT
 
-The project aims to design and implement a 2-D Space Shooter where the player controlles spacecraft is supposed to shoot through enemy space craft and collect points while avoiding collision with enemy space craft
+The project aims to design and implement a 2-D Space Shooter [GALACTICVERSE] where the player controlles spacecraft is supposed to shoot through enemy space craft and collect points while avoiding collision with enemy space craft
 and keeping the health intact. 
 
 # PROJECT OVERVIEW
