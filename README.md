@@ -84,3 +84,6 @@ https://github.com/muhammad1234-max/OOP-SEMPROJECT-24/assets/115150510/0b120b85-
 # PROJECT OVERVIEW VIDEO
 
 https://github.com/ukkashah11/OOP-Project-GALACTICVERSE-/blob/master/Project%20Overview.mp4
+
+# PROJECT PPT
+https://github.com/ukkashah11/OOP-Project-GALACTICVERSE-/blob/master/galacticverse.pptx
