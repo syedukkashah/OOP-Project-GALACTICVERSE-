@@ -17,3 +17,7 @@ Youtube and other sites were used to understand SFML and Visual Studio was used 
 # VIDEO DEMO
 https://github.com/muhammad1234-max/OOP-SEMPROJECT-24/assets/115150510/0b120b85-e692-4174-8af2-a83e016e51ea
 
+# GITHUB PROFILES
+https://github.com/ukkashah11
+https://github.com/ibrahimjohar
+
